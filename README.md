@@ -1,4 +1,4 @@
-# frontedn-Realestate-website
+# frontend-Realestate-website
 I used html,css,javascript to make this frontend project.
 
 The website is made for browsing different properties and getting information about houses and apartments.
